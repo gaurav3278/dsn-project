@@ -1,0 +1,19 @@
+body {
+    font-family: "Baloo Thambi 2", "cursive";
+    /* background-color: #fff8ff; */
+
+  }
+  .v1{
+    color: #d210df;
+  }
+  .v2{
+    color: blue;
+  }
+  .table{
+    width: auto
+  }
+  .coloumn{
+    width: auto;
+    word-break: normal;
+    --breakpoint-sm: white;
+  }
